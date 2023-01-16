@@ -1,0 +1,15 @@
+C:\Users\Rodrigo_Freire\source\repos\ADA_POO_I\Sinqia_956_POO\bin\Debug\net6.0\Sinqia_956_POO.exe
+C:\Users\Rodrigo_Freire\source\repos\ADA_POO_I\Sinqia_956_POO\bin\Debug\net6.0\Sinqia_956_POO.deps.json
+C:\Users\Rodrigo_Freire\source\repos\ADA_POO_I\Sinqia_956_POO\bin\Debug\net6.0\Sinqia_956_POO.runtimeconfig.json
+C:\Users\Rodrigo_Freire\source\repos\ADA_POO_I\Sinqia_956_POO\bin\Debug\net6.0\Sinqia_956_POO.dll
+C:\Users\Rodrigo_Freire\source\repos\ADA_POO_I\Sinqia_956_POO\bin\Debug\net6.0\Sinqia_956_POO.pdb
+C:\Users\Rodrigo_Freire\source\repos\ADA_POO_I\Sinqia_956_POO\obj\Debug\net6.0\Sinqia_956_POO.csproj.AssemblyReference.cache
+C:\Users\Rodrigo_Freire\source\repos\ADA_POO_I\Sinqia_956_POO\obj\Debug\net6.0\Sinqia_956_POO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rodrigo_Freire\source\repos\ADA_POO_I\Sinqia_956_POO\obj\Debug\net6.0\Sinqia_956_POO.AssemblyInfoInputs.cache
+C:\Users\Rodrigo_Freire\source\repos\ADA_POO_I\Sinqia_956_POO\obj\Debug\net6.0\Sinqia_956_POO.AssemblyInfo.cs
+C:\Users\Rodrigo_Freire\source\repos\ADA_POO_I\Sinqia_956_POO\obj\Debug\net6.0\Sinqia_956_POO.csproj.CoreCompileInputs.cache
+C:\Users\Rodrigo_Freire\source\repos\ADA_POO_I\Sinqia_956_POO\obj\Debug\net6.0\Sinqia_956_POO.dll
+C:\Users\Rodrigo_Freire\source\repos\ADA_POO_I\Sinqia_956_POO\obj\Debug\net6.0\refint\Sinqia_956_POO.dll
+C:\Users\Rodrigo_Freire\source\repos\ADA_POO_I\Sinqia_956_POO\obj\Debug\net6.0\Sinqia_956_POO.pdb
+C:\Users\Rodrigo_Freire\source\repos\ADA_POO_I\Sinqia_956_POO\obj\Debug\net6.0\Sinqia_956_POO.genruntimeconfig.cache
+C:\Users\Rodrigo_Freire\source\repos\ADA_POO_I\Sinqia_956_POO\obj\Debug\net6.0\ref\Sinqia_956_POO.dll
