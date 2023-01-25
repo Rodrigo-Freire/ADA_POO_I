@@ -1,0 +1,15 @@
+C:\Users\Rodrigo_Freire\source\repos\ADA_POO_I\Projeto_Televisão\bin\Debug\net6.0\Projeto_Televisão.exe
+C:\Users\Rodrigo_Freire\source\repos\ADA_POO_I\Projeto_Televisão\bin\Debug\net6.0\Projeto_Televisão.deps.json
+C:\Users\Rodrigo_Freire\source\repos\ADA_POO_I\Projeto_Televisão\bin\Debug\net6.0\Projeto_Televisão.runtimeconfig.json
+C:\Users\Rodrigo_Freire\source\repos\ADA_POO_I\Projeto_Televisão\bin\Debug\net6.0\Projeto_Televisão.dll
+C:\Users\Rodrigo_Freire\source\repos\ADA_POO_I\Projeto_Televisão\bin\Debug\net6.0\Projeto_Televisão.pdb
+C:\Users\Rodrigo_Freire\source\repos\ADA_POO_I\Projeto_Televisão\obj\Debug\net6.0\Projeto_Televisão.csproj.AssemblyReference.cache
+C:\Users\Rodrigo_Freire\source\repos\ADA_POO_I\Projeto_Televisão\obj\Debug\net6.0\Projeto_Televisão.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rodrigo_Freire\source\repos\ADA_POO_I\Projeto_Televisão\obj\Debug\net6.0\Projeto_Televisão.AssemblyInfoInputs.cache
+C:\Users\Rodrigo_Freire\source\repos\ADA_POO_I\Projeto_Televisão\obj\Debug\net6.0\Projeto_Televisão.AssemblyInfo.cs
+C:\Users\Rodrigo_Freire\source\repos\ADA_POO_I\Projeto_Televisão\obj\Debug\net6.0\Projeto_Televisão.csproj.CoreCompileInputs.cache
+C:\Users\Rodrigo_Freire\source\repos\ADA_POO_I\Projeto_Televisão\obj\Debug\net6.0\Projeto_Televisão.dll
+C:\Users\Rodrigo_Freire\source\repos\ADA_POO_I\Projeto_Televisão\obj\Debug\net6.0\refint\Projeto_Televisão.dll
+C:\Users\Rodrigo_Freire\source\repos\ADA_POO_I\Projeto_Televisão\obj\Debug\net6.0\Projeto_Televisão.pdb
+C:\Users\Rodrigo_Freire\source\repos\ADA_POO_I\Projeto_Televisão\obj\Debug\net6.0\Projeto_Televisão.genruntimeconfig.cache
+C:\Users\Rodrigo_Freire\source\repos\ADA_POO_I\Projeto_Televisão\obj\Debug\net6.0\ref\Projeto_Televisão.dll
