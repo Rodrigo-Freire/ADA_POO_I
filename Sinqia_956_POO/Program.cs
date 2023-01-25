@@ -34,6 +34,7 @@ namespace Sinqia_956_POO
 
             Caneta caneta = new Caneta("PRETA", "BIC", "ESFEROGRAFICA");
 
+
             Console.WriteLine($"Cor da Caneta: {caneta.cor}" +
                 $"\nMarca da Caneta: {caneta.marca}" +
                 $"\nTipo de Caneta: {caneta.tipo}");
